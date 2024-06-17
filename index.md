@@ -26,3 +26,4 @@ var myVar = "Hello, world!";
 - [X] Complete Basic Enablement Taks
 - [ ] Get to Level 4 in Discord Server
 - [ ] Create Learning Circles
+- [ ] Fianl item
