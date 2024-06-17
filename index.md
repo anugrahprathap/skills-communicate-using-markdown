@@ -10,6 +10,6 @@
 - [X] Join GTECH Mulearn
 - [X]  Start Learning
 - [X] Complete Basic Enablement Taks
-- [ ] Get to Level 4 in Discord Server
+- [ ] Get to Level 4 in Discord
 - [ ] Create Learning Circles
 - 
