@@ -8,7 +8,6 @@
 
 ![Cat Image](https://github.com/anugrahprathap/skills-communicate-using-markdown/assets/84971294/98c4f999-f0b2-4877-8755-07db59f665d9)
 
-
 ***Adding Code***
 
 ```
@@ -19,6 +18,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
 
  ***Add a task list****
 - [X] Join GTECH Mulearn
